@@ -18,7 +18,11 @@ Systems must enforce.
 
 ## What's in this Playbook
 
-**[PLAYBOOK.md](PLAYBOOK.md)** — The full executive playbook:
+**[PLAYBOOK-EN.md](PLAYBOOK-EN.md)** — Executive playbook (English)
+
+**[PLAYBOOK.md](PLAYBOOK.md)** — Executive playbook (Deutsch)
+
+Both contain:
 - Agent / Human / System roles
 - Three-tier permission model (Autonomous / Assisted / Prohibited)
 - Greenfield vs. Brownfield guidance (Ratchet Principle)
