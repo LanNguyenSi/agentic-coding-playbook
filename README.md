@@ -36,7 +36,9 @@ Both contain:
 
 ## One-Page Overview
 
-![Agentic Coding Playbook](assets/onepager.svg)
+**English:** ![Agentic Coding Playbook](assets/onepager-en.svg)
+
+**Deutsch:** ![Agentic Coding Playbook](assets/onepager.svg)
 
 ---
 
